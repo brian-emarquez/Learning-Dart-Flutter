@@ -58,13 +58,23 @@
   </tr>
 </table>
 
-## Nuevo Operador de Asignacion
+## Operadores
+
+* Nuevo Operador de Asignacion
 
 ```dart
   // Operador de asignacion
   data1 ~/= data2; // el resultado es asignado a data1
   print('data1 ->: $data1');
 }
+```
+* Operador bit
+
+```dart
+ var data1 = 132;
+ var data2 = 5;
+
+data2 = data1 >> 2;  //132/2/2 = 33
 ```
 
 <!--https://giphy.com/stickers/LeCercle-Boxing-boom-cercle-lecercle-hsg8UlvI5sYa4oVFIW>
