@@ -60,7 +60,6 @@
 ## Nuevo Operador de Asignacion
 
 ´´´dart
-  // Operador de asignacion
   data1 ~/= data2; // hace la dicion y lo asigna a data1
   print('data1 ->: $data1');
 ´´´
