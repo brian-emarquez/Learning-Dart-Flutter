@@ -28,7 +28,8 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/LLearning-Dark-Flutter?color=yellow&style=for-the-badge">
+<!--Cuadrados grandes-->
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Learning-Dark-Flutter?color=yellow&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Dark-Flutter?style=for-the-badge">
   
 </p>
