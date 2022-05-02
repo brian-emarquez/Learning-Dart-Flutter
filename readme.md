@@ -41,3 +41,8 @@
     </td>
   </tr>
 </table>
+
+
+ Numeration   | Check  |    Topic      |   Quantization   |    Edit Gitpot    |    Downloads    |  link  |
+| ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
+|  -   |:heavy_check_mark: | [dart](#dart)  | :hourglass:     |<img src="https://media.giphy.com/media/gJ1zlEIw4c30qpyooF/giphy.gif" width="25px"> | 💾 | [ Atras](https://github.com/BrianMarquez3) | 
