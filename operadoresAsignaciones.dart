@@ -10,9 +10,8 @@ void main() {
   var value = data1 ~/ data2; //value 4, valor tipo entero
   //print('data1 ->: ' value); 
   print("..........................................................");
-  // Operador Especial
-
-  data1 ~/= data2; // hace la dicion y lo asigna a data1
+  
+  // Operador de asignacion
+  data1 ~/= data2; // el resultado es asignado a data1
   print('data1 ->: $data1');
 }
-

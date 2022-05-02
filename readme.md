@@ -60,8 +60,10 @@
 ## Nuevo Operador de Asignacion
 
 ```dart
-  data1 ~/= data2; // hace la dicion y lo asigna a data1
+  // Operador de asignacion
+  data1 ~/= data2; // el resultado es asignado a data1
   print('data1 ->: $data1');
+}
 ```
 
 <!--https://giphy.com/stickers/LeCercle-Boxing-boom-cercle-lecercle-hsg8UlvI5sYa4oVFIW>
