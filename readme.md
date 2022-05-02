@@ -4,32 +4,32 @@
 <p align="center">
   
    </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Learning-Dark?color=blue">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Learning-Dark-Flutter?color=blue">
   </a>
-  <a href="https://github.com/BrianMarquez3/Learning-Dark/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/Learning-Dark.svg?style=flat" alt="Stars">
+  <a href="https://github.com/BrianMarquez3/Learning-Dark-Flutter/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/Learning-Dark-Flutter.svg?style=flat" alt="Stars">
   </a>
-  <a href="https://github.com/BrianMarquez3/Learning-Dark/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Dark.svg?style=flat" alt="Forks">
+  <a href="https://github.com/BrianMarquez3/Learning-Dark-Flutter/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Dark-Flutter.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Dark?color=red&label=Version&logo=dart">
-  </a>
-  
-  </a>
-    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Python-Course">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Dark-Flutter?color=red&label=Version&logo=dart">
   </a>
   
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Python-Course/total?color=green">
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Learning-Dark-Flutter">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Learning-Dark-Flutter/total?color=green">
   </a>
   
    </a>
-   <a href="https://github.com/BrianMarquez3/Learning-Dark/network">
+   <a href="https://github.com/BrianMarquez3/Learning-Dark-Flutter/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Learning-Dark?color=yellow&style=for-the-badge">
-  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Dark?style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/LLearning-Dark-Flutter?color=yellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Dark-Flutter?style=for-the-badge">
   
 </p>
   
