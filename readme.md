@@ -1,4 +1,4 @@
-<h2 align="center">Learn Dark & Flutter Programming <img src="https://media.giphy.com/media/LHV782Onu62idYgWS3/giphy.gif" width="45px"> Beginners Course
+<h2 align="center">Learn Dark & Flutter Programming <img src="https://media.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="35px"> Beginners Course
  </h2>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://github.com/BrianMarquez3/Python-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Dark.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Python-Course?color=red&label=Version&logo=python">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Dark?color=red&label=Version&logo=python">
   </a>
   
   </a>
@@ -36,8 +36,8 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./Images/python-logo.gif" />
-      <h4 align="center"> Pythonista or Pythoneer </h4>
+      <img align="center" style="padding=0;" src="./images/4.webp" />
+      <h4 align="center"> Dart & Flutter </h4>
     </td>
   </tr>
 </table>
