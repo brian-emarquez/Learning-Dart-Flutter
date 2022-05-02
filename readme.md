@@ -81,4 +81,10 @@ data2 = data1 << 2;  //132*2*2 = 528
 data2 = data1 << 2;  //132/2/2 = 33
 ```
 
+* parse
+
+```dart
+var value = int.parse("10000100", radix: 2); //convertir binario a entero
+```
+
 <!--https://giphy.com/stickers/LeCercle-Boxing-boom-cercle-lecercle-hsg8UlvI5sYa4oVFIW>
