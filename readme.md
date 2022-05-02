@@ -59,9 +59,9 @@
 
 ## Nuevo Operador de Asignacion
 
-´´´dart
+```dart
   data1 ~/= data2; // hace la dicion y lo asigna a data1
   print('data1 ->: $data1');
-´´´
+```
 
 <!--https://giphy.com/stickers/LeCercle-Boxing-boom-cercle-lecercle-hsg8UlvI5sYa4oVFIW>
