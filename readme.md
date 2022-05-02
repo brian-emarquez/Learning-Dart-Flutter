@@ -74,7 +74,11 @@
  var data1 = 132;
  var data2 = 5;
 
-data2 = data1 >> 2;  //132/2/2 = 33
+//multiplicacion
+data2 = data1 << 2;  //132*2*2 = 528
+
+//division
+data2 = data1 << 2;  //132/2/2 = 33
 ```
 
 <!--https://giphy.com/stickers/LeCercle-Boxing-boom-cercle-lecercle-hsg8UlvI5sYa4oVFIW>
