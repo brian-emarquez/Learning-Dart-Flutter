@@ -9,10 +9,10 @@
   <a href="https://github.com/BrianMarquez3/Learning-Dark/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/Learning-Dark.svg?style=flat" alt="Stars">
   </a>
-  <a href="https://github.com/BrianMarquez3/Python-Course/network">
+  <a href="https://github.com/BrianMarquez3/Learning-Dark/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Dark.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Dark?color=red&label=Version&logo=python">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Dark?color=red&label=Version&logo=dart">
   </a>
   
   </a>
