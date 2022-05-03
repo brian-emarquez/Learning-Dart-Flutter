@@ -46,10 +46,10 @@ Install Dart Windows [dart.dev](https://dart.dev/get-dart)
 </table>
 
 ```
- choco install dart-sdk
+choco install dart-sdk
 ```
 
 ```
- choco upgrade dart-sdk
+choco upgrade dart-sdk
 ```
 
