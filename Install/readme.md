@@ -1,15 +1,13 @@
-## Manual for installing DART & Flutter
+<p align="center">
+  <img src="../images/dart1.png" width="260"/>
+</p>
+
+[![Build Status SVG][]][Repo on GitHub Actions]
+[![first-timers SVG][]][first-timers]
   
-<table align="center">
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="../images/8.jpg" />
-    </td>
-  </tr>
-</table>
+# <img src="https://github.com/dart-lang/site-shared/blob/main/src/_assets/image/dart/logo/64.png" alt="Dart" width="28" height="28"/> The Dart language
 
-
-## Install Chocolatey
+*## *Install Chocolatey 
 
 
 Install Chocolatey Windows [chocolatey.org](https://chocolatey.org/)
@@ -54,3 +52,5 @@ choco upgrade dart-sdk
 ```
 
 ---
+
+Install Flutter Windows [flutter.dev](https://flutter.dev/get-started)
