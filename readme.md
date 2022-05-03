@@ -49,7 +49,8 @@
 
  Numeration   | Check  |    Topic      |   Available   |    Edit Gitpot    |    Downloads    |  Link  |
 | ------------ |--------|-------------- |----------------- |------------------ |---------------- |-------- |
-|  -   |:heavy_check_mark: | [Install](#install)  |   👍  |<img src="https://media.giphy.com/media/gJ1zlEIw4c30qpyooF/giphy.gif" width="25px"> | 💾 | [ Atras](https://github.com/BrianMarquez3/Learning-Dark-Flutter/tree/main/Install) | 
+|  -   |:heavy_check_mark: | [Install](https://github.com/BrianMarquez3/Learning-Dark-Flutter/tree/main/Install)  |   👍  |<img src="https://media.giphy.com/media/gJ1zlEIw4c30qpyooF/giphy.gif" width="25px"> | 💾 | [ Atras](https://github.com/BrianMarquez3) | 
+|  -   |:heavy_check_mark: | [Operators](#Operators)  |   👍  |<img src="https://media.giphy.com/media/gJ1zlEIw4c30qpyooF/giphy.gif" width="25px"> | 💾 | [ Atras](https://github.com/BrianMarquez3) | 
 
 ## Table ASCI
 
