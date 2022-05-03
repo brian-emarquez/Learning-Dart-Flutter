@@ -165,4 +165,15 @@ Install Fluttter for Windows [Download Flutter](https://docs.flutter.dev/get-sta
   </tr>
 </table>
 
+## Final Config
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/flutter/flutter_install_8.png" />
+    </td>
+  </tr>
+</table>
+
+https://docs.flutter.dev/get-started/install/windows#run-flutter-doctor
 
