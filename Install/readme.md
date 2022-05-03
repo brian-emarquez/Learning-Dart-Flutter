@@ -78,7 +78,6 @@ Install Fluttter for Windows [Download Flutter](https://docs.flutter.dev/get-sta
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="../images/flutter/flutter_install_1.png" />
-      <h4 align="center"> Dart & Flutter </h4>
     </td>
   </tr>
 </table>
@@ -87,7 +86,6 @@ Install Fluttter for Windows [Download Flutter](https://docs.flutter.dev/get-sta
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="../images/flutter/flutter_install_2.png" />
-      <h4 align="center"> Dart & Flutter </h4>
     </td>
   </tr>
 </table>
@@ -96,23 +94,75 @@ Install Fluttter for Windows [Download Flutter](https://docs.flutter.dev/get-sta
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="../images/flutter/flutter_install_3.png" />
-      <h4 align="center"> Dart & Flutter </h4>
     </td>
   </tr>
 </table>
 
 ## Config Flutter
 
-Insert into disk C
+* Insert into disk C
 
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="../images/flutter/flutter_install_4.png" />
-      <h4 align="center"> Dart & Flutter </h4>
     </td>
   </tr>
 </table>
 
+* environment variables
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/flutter/flutter_install_5.png" />
+    </td>
+  </tr>
+</table>
+
+* Add Path
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/flutter/flutter_install_6.png" />
+    </td>
+  </tr>
+</table>
+
+** Add Item
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/flutter/flutter_install_7.png" />
+    </td>
+  </tr>
+</table>
+
+
+## Visual Code Config
+
+ * Add Dart Plugging
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/flutter/flutter_install_9.png" />
+    </td>
+  </tr>
+</table>
+
+ * Add flutter Plugging
+
+ 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="../images/flutter/flutter_install_8.png" />
+    </td>
+  </tr>
+</table>
 
 
