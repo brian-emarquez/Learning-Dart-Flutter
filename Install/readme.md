@@ -72,4 +72,33 @@ Install Flutter Windows [flutter.dev](https://flutter.dev/get-started)
 
 # The Flutter Frmework
 
+Install Fluttter for Windows [Download Flutter](https://docs.flutter.dev/get-started/install)
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/flutter/flutter_install_1.png" />
+      <h4 align="center"> Dart & Flutter </h4>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/flutter/flutter_install_2.png" />
+      <h4 align="center"> Dart & Flutter </h4>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/flutter/flutter_install_3.png" />
+      <h4 align="center"> Dart & Flutter </h4>
+    </td>
+  </tr>
+</table>
+
 
