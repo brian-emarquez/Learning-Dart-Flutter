@@ -21,7 +21,7 @@ operador_ternario(){
   var value = "";
     
   
-value = (5 > data1) ? "repositorio de dart y flutter" : "error";
+value = (20 > data1) ? "repositorio de dart y flutter" : "error";
 print(value);
 }
 
@@ -29,7 +29,7 @@ print(value);
 void main() {
 
   //operador_if();
-  operador_ternario()
+  operador_ternario();
 
 }
 
