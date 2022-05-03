@@ -2,8 +2,6 @@
   <img src="../images/dart1.png" width="260"/>
 </p>
 
-[![Build Status SVG][]][Repo on GitHub Actions]
-[![first-timers SVG][]][first-timers]
 
 The https://dart.dev site, built with [Jekyll][] and hosted on [Firebase][].
 
@@ -11,11 +9,9 @@ The https://dart.dev site, built with [Jekyll][] and hosted on [Firebase][].
 and we're [first-timer friendly][first-timers]!
 
 
-
   # <img src="../images/logo/64.png" alt="Dart" width="27" height="27"/> The Dart language
 
-*## *Install Chocolatey 
-
+## Install Chocolatey 
 
 Install Chocolatey Windows [chocolatey.org](https://chocolatey.org/)
 
@@ -59,5 +55,12 @@ choco upgrade dart-sdk
 ```
 
 ---
+
+<br>
+</br>
+<p align="center">
+  <img src="../images/logo/Flutter_logo.png" width="260"/>
+</p>
+
 
 Install Flutter Windows [flutter.dev](https://flutter.dev/get-started)
