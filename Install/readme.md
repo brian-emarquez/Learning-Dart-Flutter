@@ -70,7 +70,7 @@ open source.
 
 Install Flutter Windows [flutter.dev](https://flutter.dev/get-started)
 
-# The Flutter Frmework
+# The Flutter Framework
 
 Install Fluttter for Windows [Download Flutter](https://docs.flutter.dev/get-started/install)
 
