@@ -24,10 +24,10 @@ add_switch(){
 }
 
 forLoop(){
-
+  for(var i = 0; i<5; i++){
+    print("i vale $i");
+  }
 }
-
-
 
 void main() {
   //add_switch();
