@@ -1,4 +1,4 @@
-## Manual for installing DART
+## Manual for installing DART & Flutter
   
 <table align="center">
   <tr>
