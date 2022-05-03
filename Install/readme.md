@@ -2,9 +2,6 @@
   <img src="../images/dart1.png" width="260"/>
 </p>
 
-
-The https://dart.dev site, built with [Jekyll][] and hosted on [Firebase][].
-
 [We welcome contributions](CONTRIBUTING.md), 
 and we're [first-timer friendly][first-timers]!
 
@@ -21,7 +18,9 @@ Install Chocolatey Windows [chocolatey.org](https://chocolatey.org/)
       <img align="center" style="padding=0;" src="../images/chocolatey.png" />
     </td>
   </tr>
+</table>
 
+<table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="../images/chocolatey2.png" />
@@ -62,5 +61,15 @@ choco upgrade dart-sdk
   <img src="../images/logo/Flutter_logo.png" width="260"/>
 </p>
 
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5631/badge)](https://bestpractices.coreinfrastructure.org/projects/5631)
+
+Flutter is Google's SDK for crafting beautiful, fast user experiences for
+mobile, web, and desktop from a single codebase. Flutter works with existing
+code, is used by developers and organizations around the world, and is free and
+open source.
 
 Install Flutter Windows [flutter.dev](https://flutter.dev/get-started)
+
+# The Flutter Frmework
+
+
