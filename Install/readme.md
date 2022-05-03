@@ -8,6 +8,14 @@ and we're [first-timer friendly][first-timers]!
 
   # <img src="../images/logo/64.png" alt="Dart" width="27" height="27"/> The Dart language
 
+## Install Android Studio 
+
+<p>
+Android Studio provides the fastest tools for building apps on every type of Android device.
+</p>
+
+Download Android Studio [Android Studio](https://developer.android.com/studio?hl=es-419&gclid=Cj0KCQjwpcOTBhCZARIsAEAYLuU4qSmtpHn3hQUcalipCz7IjMPSEkwpE4xXDshuNscMuo3cfhM4qjQaAjkDEALw_wcB&gclsrc=aw.ds#downloads)
+
 ## Install Chocolatey 
 
 Install Chocolatey Windows [chocolatey.org](https://chocolatey.org/)
