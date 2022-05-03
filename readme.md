@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-## Operadores
+## Operators
 
 * Nuevo Operador de Asignacion
 
