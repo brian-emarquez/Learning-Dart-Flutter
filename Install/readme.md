@@ -4,8 +4,15 @@
 
 [![Build Status SVG][]][Repo on GitHub Actions]
 [![first-timers SVG][]][first-timers]
-  
-# <img src="https://github.com/dart-lang/site-shared/blob/main/src/_assets/image/dart/logo/64.png" alt="Dart" width="28" height="28"/> The Dart language
+
+The https://dart.dev site, built with [Jekyll][] and hosted on [Firebase][].
+
+[We welcome contributions](CONTRIBUTING.md), 
+and we're [first-timer friendly][first-timers]!
+
+
+
+  # <img src="../images/logo/64.png" alt="Dart" width="27" height="27"/> The Dart language
 
 *## *Install Chocolatey 
 
