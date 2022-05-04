@@ -112,6 +112,7 @@ class vehiculo{
 ```dart
 class vehiculo{
 
+  //Variables tardías
   late String color;
   late String modelo;
   late String marca;
