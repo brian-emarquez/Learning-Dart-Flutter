@@ -8,15 +8,10 @@ class vehiculo{
   late String marca;
 
   void Arrancar(){
-    print("Arrancando Programacion orientada a objetos");
+    print("Arrancando el auto marca $marca y color $color");
   }
-  // primera funcion
-  void CambiarValor(int numero){
-    for(int i = 0; i<numero; i++){
-      print("numero: $i");
-    }
-  }
-  //segunda funcion
+
+  //primera funcion
   void CambiarMarca(String marca){
     marca = marca;
     print(marca);
@@ -26,11 +21,13 @@ class vehiculo{
 
 void main(){
   var auto = new vehiculo();
-  int numero = 10;
 
   auto.color = "Azul";
   auto.marca = "Toyota";
   auto.Arrancar();
-  auto.CambiarValor(numero);
-  auto.CambiarMarca("Ford");
+
+
+  auto.color = "verde";
+  auto.marca = "ford";
+  auto.Arrancar();
 }
