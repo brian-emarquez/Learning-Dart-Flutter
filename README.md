@@ -145,3 +145,14 @@ void main(){
   auto.CambiarMarca("Ford");
 }
 ```
+
+* POO - Herencia
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/image_herencia.png" />
+    </td>
+  </tr>
+</table>
