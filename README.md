@@ -156,3 +156,13 @@ void main(){
     </td>
   </tr>
 </table>
+
+* POO clases Abtractas
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/image_classesAbtractas.png" />
+    </td>
+  </tr>
+</table>
