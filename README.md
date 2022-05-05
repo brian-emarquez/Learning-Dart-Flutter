@@ -148,6 +148,10 @@ void main(){
 
 * POO - Herencia
 
+- Sobreescritura de metodos
+```dart
+ @override
+ ```
 
 <table align="center">
   <tr>
@@ -158,6 +162,7 @@ void main(){
 </table>
 
 * POO clases Abtractas
+
 
 <table align="center">
   <tr>
