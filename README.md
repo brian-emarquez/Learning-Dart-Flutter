@@ -149,6 +149,7 @@ void main(){
 * POO - Herencia
 
 - Sobreescritura de metodos
+
 ```dart
  @override
  ```
@@ -172,8 +173,25 @@ void main(){
   </tr>
 </table>
 
+- Exmplle
+
+```dart
+// INTERFASES
+abstract class EsTransporte{
+  void QueTranporteSoy();
+}
+
+// Implementar las interfaces (implements)
+class Camion extends Vehiculo implements EsTransporte{
+  @override
+  void miCombustible() {
+    print('Diesel');
+  }
+```
+
 
 |Number| File                  | Link        |    Code     | Version     | Estado      | Atras       |
 |:----:|-----------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | -   | [clases Abtractas ](https://github.com/BrianMarquez3/C-Plus-Plus-Course/tree/master/Operaciones%201)     |      ✔️     | yes | yes | ✔️ | [⬅️Atras](#Tabla-de-contenidos) |
 <!--https://giphy.com/stickers/LeCercle-Boxing-boom-cercle-lecercle-hsg8UlvI5sYa4oVFIW>
+
