@@ -190,8 +190,6 @@ class Camion extends Vehiculo implements EsTransporte{
 ```
 
 
-|Number| File                  | Link        |    Code     | Version     | Estado      | Atras       |
-|:----:|-----------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| -   | [clases Abtractas ](https://github.com/BrianMarquez3/Learning-Dark-Flutter/blob/main/interfaces.dart) |
-<!--https://giphy.com/stickers/LeCercle-Boxing-boom-cercle-lecercle-hsg8UlvI5sYa4oVFIW>
-
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|-       | [clases Abtractas ](https://github.com/BrianMarquez3/Learning-Dark-Flutter/blob/main/interfaces.dart)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#https://github.com/BrianMarquez3) |
