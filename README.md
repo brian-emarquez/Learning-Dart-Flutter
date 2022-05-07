@@ -192,6 +192,7 @@ class Camion extends Vehiculo implements EsTransporte{
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |-       | [clases Abtractas ](https://github.com/BrianMarquez3/Learning-Dark-Flutter/blob/main/interfaces.dart)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#https://github.com/BrianMarquez3) |
 
+---
 
 <table align="center">
   <tr>
