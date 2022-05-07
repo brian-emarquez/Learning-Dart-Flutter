@@ -196,15 +196,13 @@ class Camion extends Vehiculo implements EsTransporte{
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/flutter-lockup-bg.jpg" />
-      <h4 align="center"> Dart & Flutter </h4>
+      <img align="center" style="padding=0;" src="./images/flutter/flutter-lockup-bg.jpg" />
     </td>
   </tr>
 </table>
 
-# [![Flutter logo][]][flutter.dev]
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5631/badge)](https://bestpractices.coreinfrastructure.org/projects/5631)
 
-[(https://bestpractices.coreinfrastructure.org/projects/5631)
 
 Flutter is Google's SDK for crafting beautiful, fast user experiences for
 mobile, web, and desktop from a single codebase. Flutter works with existing
