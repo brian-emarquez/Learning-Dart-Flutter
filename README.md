@@ -223,5 +223,18 @@ open source.
 * Create new Project
 
   ```dart
-  flutter create --template=app
+  flutter create myapp
   ```
+
+* Ver Emuladores
+
+  ```dart
+  flutter emulators --launch Machina_Virtual
+  ```
+
+  * Ejecutar Flutter
+
+  ```dart
+  flutter run
+  ```
+
