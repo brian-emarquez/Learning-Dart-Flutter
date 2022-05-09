@@ -219,3 +219,9 @@ open source.
     </td>
   </tr>
 </table>
+
+* Create new Project
+
+  ```dart
+  flutter create --template=app
+  ```
