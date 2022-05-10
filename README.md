@@ -257,7 +257,7 @@ open source.
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/flutter/statelessWidget.png" />
+      <img align="center" style="padding=0;" src="./images/statelessWidget.png" />
     </td>
   </tr>
 </table>
@@ -267,7 +267,7 @@ open source.
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/flutter/statefulWidget.png" />
+      <img align="center" style="padding=0;" src="./images/statefulWidget.png" />
     </td>
   </tr>
 </table>
