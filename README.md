@@ -272,7 +272,7 @@ open source.
   </tr>
 </table>
 
-* Pub Dart
+* Pub Dev
 
 Link: [pub.dev](https://pub.dev/)
 
@@ -291,3 +291,19 @@ Link: [pub.dev](https://pub.dev/)
   </tr>
 </table>
 
+
+* Flutter DevTools
+
+Flutter DevTools: [http://127.0.0.1:9100/](http://127.0.0.1:9100/)
+
+ ´Ctr +Ship + p´
+
+
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/flutterDevTools.2png" />
+    </td>
+  </tr>
+</table>
