@@ -252,3 +252,12 @@ open source.
 |:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 |-       | [Ejemplo Flutter ](https://github.com/BrianMarquez3/Learning-Dark-Flutter/tree/main/myFlutter/myapp)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#https://github.com/BrianMarquez3) |
 
+* Stateless Widget
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/flutter/statelessWidget.png" />
+    </td>
+  </tr>
+</table>
