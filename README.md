@@ -274,13 +274,20 @@ open source.
 
 * Pub Dart
 
+Link: [pub.dev](https://pub.dev/)
+
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="./images/pub_dev.png" />
     </td>
   </tr>
+  
+  <table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/pub_dev_eample.png" />
+    </td>
+  </tr>
 </table>
 
-
-Link: [pub.dev](https://pub.dev/)
