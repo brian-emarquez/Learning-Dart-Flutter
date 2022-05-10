@@ -296,14 +296,25 @@ Link: [pub.dev](https://pub.dev/)
 
 Flutter DevTools: [http://127.0.0.1:9100/](http://127.0.0.1:9100/)
 
- ´Ctr +Ship + p´
 
+ `Ctr +Ship + p`
 
+- Ingresar Datos
 
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/flutterDevTools.2png" />
+      <img align="center" style="padding=0;" src="./images/dart_opcions.png" />
+    </td>
+  </tr>
+</table>
+
+- Flutter DevTools
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/flutterDevTools.2.png" />
     </td>
   </tr>
 </table>
