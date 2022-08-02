@@ -37,14 +37,12 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/4.webp" />
+      <img align="center" style="padding=0;" src="./images/dart.png" />
       <h4 align="center"> Dart & Flutter </h4>
     </td>
   </tr>
 </table>
-
-
-
+ 
 ## Table Contents
 
  Numeration    | Check  |    Topic      |   Available      |    Edit Gitpot    |    Downloads    |  Link   |
@@ -190,6 +188,7 @@ class Camion extends Vehiculo implements EsTransporte{
 ```
 
 
+<<<<<<< HEAD
 |Number| File                  | Link        |    Code     | Version     | Estado      | Atras       |
 |:----:|-----------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | -   | [clases Abtractas ](https://github.com/BrianMarquez3/Learning-Dark-Flutter/blob/main/interfaces.dart) |
@@ -197,4 +196,135 @@ class Camion extends Vehiculo implements EsTransporte{
 
 
 <!--https://giphy.com/stickers/LeCercle-Boxing-boom-cercle-lecercle-hsg8UlvI5sYa4oVFIW>
+=======
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|-       | [clases Abtractas ](https://github.com/BrianMarquez3/Learning-Dark-Flutter/blob/main/interfaces.dart)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#https://github.com/BrianMarquez3) |
+>>>>>>> b8172fde8c31c5f5cf1f4ce000f806cff08b4dfd
 
+---
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/flutter/flutter-lockup-bg.jpg" />
+    </td>
+  </tr>
+</table>
+
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5631/badge)](https://bestpractices.coreinfrastructure.org/projects/5631)
+
+
+Flutter is Google's SDK for crafting beautiful, fast user experiences for
+mobile, web, and desktop from a single codebase. Flutter works with existing
+code, is used by developers and organizations around the world, and is free and
+open source. 
+
+ - Arquitectura Flutter
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/flutter/conocendo_flutter.png" />
+    </td>
+  </tr>
+</table>
+
+* Create new Project
+
+  ```dart
+  flutter create myapp
+  ```
+
+* Ver Emuladores
+
+  ```dart
+  flutter emulators --launch Machina_Virtual
+  ```
+
+  * Ejecutar Flutter
+
+  ```dart
+  flutter run
+  ```
+
+  * Ejemplo Flutter
+  
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/ejemploFlutter.png" />
+    </td>
+  </tr>
+</table>
+
+|Numeration  | File   |  Link       |    Folk     |  Code       | Version     | State       | Download    |  Go back    |
+|:----------:|:------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+|-       | [Ejemplo Flutter ](https://github.com/BrianMarquez3/Learning-Dark-Flutter/tree/main/myFlutter/myapp)  | ✔️  | ✔️ | yes | yes | ✔️ | 💾 | [⬅️Atras](#https://github.com/BrianMarquez3) |
+
+* Stateless Widget
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/statelessWidget.png" />
+    </td>
+  </tr>
+</table>
+
+* Stateful Widget
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/statefulWidget.png" />
+    </td>
+  </tr>
+</table>
+
+* Pub Dev
+
+Link: [pub.dev](https://pub.dev/)
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/pub_dev.png" />
+    </td>
+  </tr>
+  
+  <table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/pub_dev_eample.png" />
+    </td>
+  </tr>
+</table>
+
+
+* Flutter DevTools
+
+Flutter DevTools: [http://127.0.0.1:9100/](http://127.0.0.1:9100/)
+
+
+ `Ctr +Ship + p`
+
+- Ingresar Datos
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/dart_opcions.png" />
+    </td>
+  </tr>
+</table>
+
+- Flutter DevTools
+
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/flutterDevTools.2.png" />
+    </td>
+  </tr>
+</table>
