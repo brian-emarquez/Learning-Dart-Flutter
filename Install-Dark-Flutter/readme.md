@@ -2,10 +2,6 @@
   <img src="../images/dart1.png" width="260"/>
 </p>
 
-[We welcome contributions](CONTRIBUTING.md), 
-and we're [first-timer friendly][first-timers]!
-
-
   # <img src="../images/logo/64.png" alt="Dart" width="27" height="27"/> The Dart language
 
 ## Install Android Studio 
