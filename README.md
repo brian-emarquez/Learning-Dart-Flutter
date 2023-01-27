@@ -1,5 +1,4 @@
-<h2 align="center">Learn Dark & Flutter Programming <img src="https://media.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif" width="35px"> Beginners Course
- </h2>
+<h2 align="center">Learn Dark & Flutter Programming | Training </h2>
 
 <p align="center">
   
