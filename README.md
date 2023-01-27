@@ -36,7 +36,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./images/dart.png" />
+      <img align="center" style="padding=0;" src="./images/logo/main.jpg" />
       <h4 align="center"> Dart & Flutter </h4>
     </td>
   </tr>
