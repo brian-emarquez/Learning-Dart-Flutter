@@ -1,35 +1,35 @@
-<h2 align="center">Learn Dark & Flutter Programming | Training </h2>
+<h2 align="center">Learn Dart & Flutter Programming | Training </h2>
 
 <p align="center">
   
    </a>
-    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Learning-Dark-Flutter?color=blue">
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/Learning-Dart-Flutter?color=blue">
   </a>
-  <a href="https://github.com/BrianMarquez3/Learning-Dark-Flutter/stargazers">
-    <img src="https://img.shields.io/github/stars/BrianMarquez3/Learning-Dark-Flutter.svg?style=flat" alt="Stars">
+  <a href="https://github.com/BrianMarquez3/Learning-Dart-Flutter/stargazers">
+    <img src="https://img.shields.io/github/stars/BrianMarquez3/Learning-Dart-Flutter.svg?style=flat" alt="Stars">
   </a>
-  <a href="https://github.com/BrianMarquez3/Learning-Dark-Flutter/network">
-    <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Dark-Flutter.svg?style=flat" alt="Forks">
+  <a href="https://github.com/BrianMarquez3/Learning-Dart-Flutter/network">
+    <img src="https://img.shields.io/github/forks/BrianMarquez3/Learning-Dart-Flutter.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Dark-Flutter?color=red&label=Version&logo=dart">
-  </a>
-  
-  </a>
-    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Learning-Dark-Flutter">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/Learning-Dart-Flutter?color=red&label=Version&logo=dart">
   </a>
   
   </a>
-    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Learning-Dark-Flutter/total?color=green">
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/Learning-Dart-Flutter">
+  </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/Learning-Dart-Flutter/total?color=green">
   </a>
   
    </a>
-   <a href="https://github.com/BrianMarquez3/Learning-Dark-Flutter/network">
+   <a href="https://github.com/BrianMarquez3/Learning-Dart-Flutter/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
 <!--Cuadrados grandes-->
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Learning-Dark-Flutter?color=yellow&style=for-the-badge">
-  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Dark-Flutter?style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/Learning-Dart-Flutter?color=yellow&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/Learning-Dart-Flutter?style=for-the-badge">
   
 </p>
   
